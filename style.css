@@ -1,0 +1,33 @@
+.box{
+  height: 50px;
+  width: 50px;
+  background-color: #cce5ff;
+  outline-color: white;
+  outline-style: solid;
+  outline-width: thin;
+  margin: 0px;
+  padding: 0px;
+  float:left;
+}
+
+button.pretty{
+  height: 50px;
+  width: 100px;
+  background-color: #cce5ff;
+  border-radius: 10px;
+  -webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.boxcontainer{
+  height:800px;
+  width:800px;
+  margin-left: auto;
+  margin-right: auto;
+  outline-color: black;
+  outline-style: solid;
+  outline-width: thin;
+}
